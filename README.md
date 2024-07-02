@@ -1,4 +1,4 @@
-#codsoft-internship-c++
+# Codsoft-Internship-C++
  
 This is my Task 1-Simple Number Guessing Game using C++.
 #include <iostream>
