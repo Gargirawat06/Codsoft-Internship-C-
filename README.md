@@ -1,5 +1,4 @@
-# Codsoft-Internship-C++
-Hello everyone! Here I will be uploading my internship's task/project from codsoft.
+#codsoft-internship-c++
  
 This is my Task 1-Simple Number Guessing Game using C++.
 #include <iostream>
